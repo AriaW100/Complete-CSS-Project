@@ -1,8 +1,7 @@
 RENCANA PROJECT WEBSITE
 - Website toko online
-  * 3 Jam
-    * 60 menit
-  * 2 Jam
+  * Header
+  * Footer
 - Website blogspot
   ^ 5 Jam
 - Website Webpage
