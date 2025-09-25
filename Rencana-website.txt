@@ -1,7 +1,7 @@
 RENCANA PROJECT WEBSITE
 - Website toko online
-  * 3 Jam
-  * 2 Jam
+  * Header
+  * Footer
 - Website blogspot
 - Website webpage
 - Website instagram
