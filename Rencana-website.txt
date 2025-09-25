@@ -5,6 +5,8 @@ RENCANA PROJECT WEBSITE
   * 2 Jam
 - Website blogspot
   ^ 5 Jam
-- Website webpage
+- Website Webpage
+  ^ 10 Jam
 - Website instagram
+  ^ 15 Jam
 - Website Ticketing
