@@ -2,5 +2,5 @@ Rencana Project
 - Profile Card
 - ATM Card
 - UI/UX
-- Header Website
-- Content Website
+- Membuat Website
+
